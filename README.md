@@ -25,8 +25,8 @@ This Telegram bot is designed to provide information about Nym mixnodes and usef
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/brut069/bot-nym-nodes.git
-   cd bot-nym-nodes
+   git clone https://github.com/brut069/NYMbot-FR.git
+   cd NYMbot-FR
    ```
 
 2. **Install Dependencies:**
@@ -69,7 +69,7 @@ This Telegram bot is designed to provide information about Nym mixnodes and usef
 5. **Launch the Bot:**
 
    ```bash
-   node bot-nym-nodes.js
+   node NYMbot-FR.js
    ```
 
 ## Updating nodes.json
@@ -87,7 +87,7 @@ To apply updates when a new version of `nodes.json` is merged into the repositor
 3. Restart the bot to load the new data:
 
    ```bash
-   node bot-nym-nodes.js
+   node NYMbot-FR.js
    ```
 
 ## Usage
@@ -99,7 +99,7 @@ To apply updates when a new version of `nodes.json` is merged into the repositor
 
 ```
 .
-├── bot-nym-nodes.js  # Main bot logic
+├── NYMbot-FR.js  # Main bot logic
 ├── nodes.json        # JSON data for mixnodes and links
 ├── package.json      # Project dependencies
 ├── README.md         # Documentation
