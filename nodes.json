@@ -1,0 +1,118 @@
+{
+  "links": [
+    {
+      "description": "Comment déléguer",
+      "link": "https://medium.com/notrustverify/vous-voulez-d%C3%A9l%C3%A9guer-sur-nym-voici-comment-choisir-un-mixnode-pour-d%C3%A9l%C3%A9guer-ses-nym-96c3b2b31de0"
+    }
+  ],
+  "mixnodes": [
+    {
+      "idkey": "APxUbCmGp4K9qDzvwVADJFNu8S3JV1AJBw7q6bS5KN9E",
+      "user": ["NoTrustVerify"],
+      "name": "nym.notrustverify.ch - 🇨🇭Zurich",
+      "node id": "255"
+    },
+    {
+      "idkey": "4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR",
+      "user": ["NoTrustVerify"],
+      "name": "nym.notrustverify.ch - 🇨🇭Genève",
+      "node id": "97"
+    },
+    {
+      "idkey": "ESPa5xnwZ7BebSX9SGmUbeYgNtkUeJo8PtbBx7JhzEHA",
+      "user": ["NoTrustVerify"],
+      "name": "nym.notrustverify.ch - 🇨🇭Genève",
+      "node id": "774"
+    },
+    {
+      "idkey": "93SM33b2hxtaf4FU1myHjQkfswQ2rsyFjRV5gLFjD41X",
+      "user": ["alexbfr"],
+      "name": "🇺🇸 New-York",
+      "node id": "217"
+    },
+    {
+      "idkey": "Ayedj8tsZzZouHoF5PpHcdYms5ZkvZLqRJGrzEHhEJSF",
+      "user": ["alexbfr"],
+      "name": "🇬🇧 Londres",
+      "node id": "1041"
+    },
+    {
+      "idkey": "3Vmfqrs6TLMQNTiny52syXhGX2mVqor2wbAeop13vJPa",
+      "user": ["alexbfr"],
+      "name": "🇧🇷 São Paulo",
+      "node id": "1391"
+    },
+    {
+      "idkey": "29Q3jp7DN1ER82DcBFXo6v6hvWpKtvnP7SEmcmPJ8E9E",
+      "user": ["RemiStrasser"],
+      "name": "🇬🇧 Londres",
+      "node id": "9"
+    },
+    {
+      "idkey": "CRJwf7MhagEmKjP42Co5PAM2UxeX7F5CHYCZ6FshrhUv",
+      "user": ["RemiStrasser"],
+      "name": "🇬🇧 Londres",
+      "node id": "313"
+    },
+    {
+      "idkey": "7w5dJR14ZqfBnnqVyyPY3XPwfpVZrFvLkXYHNHR7GXDg",
+      "user": ["lebeckk"],
+      "name": "mynixnode.com - 🇨🇭Zurich",
+      "node id": "184"
+    },
+    {
+      "idkey": "D5jBtaNaZx2jn7111tBSA362KzvBHU9jXKMYYngHmEVb",
+      "user": ["ketominer"],
+      "name": "🇫🇷 Paris",
+      "node id": "336"
+    },
+    {
+      "idkey": "HPmsQj4fNoDocYAVhyZqqQSWVrawBZj3CJw2gJNEC55D",
+      "user": ["drkilljs"],
+      "name": "🇩🇪 Düsseldorf",
+      "node id": "482"
+    },
+    {
+      "idkey": "2uU2uYg37PVwSDWTJFR537bwnystTyJUy3BjuXHkc4GR",
+      "user": ["zBlaxx"],
+      "name": " Node4u - 🇫🇷 Lyon",
+      "node id": "33"
+    },
+    {
+      "idkey": "9EPJVTs4yHZ4wnwFLAzuHq8VHZrAAQxjk9gJC4pfh3Ri",
+      "user": ["Jerem1802"],
+      "name": "french-connection - 🇫🇷Lyon",
+      "node id": "223"
+    },
+    {
+      "idkey": "6rC5rmY3bUi5djsuK9LEDTgYZKmxVZ2vkvGox2H77pq2",
+      "user": ["zBlaxx"],
+      "name": " Node4u - 🇨🇦 Beauharnois",
+      "node id": "867"
+    },
+    {
+      "idkey": "3NxfHLnv3ZULDL56Q6izi5u8XjEsVQq4NBN7zPYVxjWD",
+      "user": ["JEROMEHTO"],
+      "name": "🇵🇱 Varsovie",
+      "node id": "606"
+    },
+    {
+      "idkey": "6PmpashL6dVESNY9wbvebi41jrzaxxY7wNdCni2E6w5b",
+      "user": ["e_roshimat"],
+      "name": "Phoenix - 🇵🇱 Varsovie",
+      "node id": "2149"
+    },
+    {
+      "idkey": "DGrajhR83UiWAPjkxGCZMAvWmWBqWEui4v57e5JgqCLT",
+      "user": ["JEROMEHTO"],
+      "name": "🏴 Amsterdam",
+      "node id": "1527"
+    },
+    {
+      "idkey": "81oyG2qvEN3H2qRVHfZ4v3eoBR2kAFsW5x9AJTiR56hC",
+      "user": ["zBlaxx"],
+      "name": " Node4u - 🇹🇼 TAIWAN",
+      "node id": "1682"
+    }
+  ]
+}
